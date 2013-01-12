@@ -1,0 +1,3 @@
+* Node Web Gconf
+First things first: this package has undeclared dependencies.
+Make sure you have gconftool-2 installed and in your PATH.
